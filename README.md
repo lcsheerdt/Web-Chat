@@ -1,4 +1,4 @@
-# Web-Chat
+# Web-Chat Responsivo
 
 ![image](https://raw.githubusercontent.com/lcsheerdt/Web-Chat/main/2023-02-03_19-35.png)
 

@@ -2,7 +2,7 @@
 
 ![image](https://raw.githubusercontent.com/lcsheerdt/Web-Chat/main/2023-02-03_19-35.png)
 
-<p align="center"><a href="https://social-tree-lovat.vercel.app/">Clique aqui</a> para ver o projeto.</p>
+<p align="center"><a href="https://web-chat-sooty.vercel.app/">Clique aqui</a> para ver o projeto.</p>
 
 ## :rocket: Tecnologias
  - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
